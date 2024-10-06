@@ -1,1 +1,1 @@
-M-am gandit sa realizez un fel de florarile online. Sa am mai multe ecrane care sa cuprinda cate o imagine despre fiecare floare care este pe stoc si niste ecrane cu buchete/cosulete prestabilite. Clinetul va putea sa adauge in cos flori/buchete si sa le achizitioneze ulterior.
+M-am gandit sa realizez un fel de florarie online. Sa am mai multe ecrane care sa cuprinda cate o imagine despre fiecare floare care este pe stoc si niste ecrane cu buchete/cosulete prestabilite. Clinetul va putea sa adauge in cos flori/buchete si sa le achizitioneze ulterior.
